@@ -1,0 +1,2 @@
+# Check if a wandering trader is near a player. If it is, and has not had any custom trades added, add them,
+execute as @a at @s if entity @e[type=minecraft:wandering_trader,distance=1..5,tag=!has_trade] run function kaos:add_trades

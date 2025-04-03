@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": "minecraft:white_wool"
+    },
+    "pattern": [
+        " ##",
+        "###"
+    ],
+    "result": {
+        "id": "minecraft:leather_helmet",
+        "count": 1,
+        "components": {
+            "equippable": {
+                "slot": "head",
+                "equip_sound": "minecraft:block.wool.fall"
+            },
+            "repairable": {
+                "items": [
+                    "string"
+                ]
+            },
+            "custom_model_data": {
+                "string": "kaos:cap"
+            },
+            "item_model": "kaos:cap",
+            "item_name": [
+                {
+                    "translate": "apparel.head.cap"
+                }
+            ]
+        }
+    }
+}

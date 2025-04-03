@@ -1,0 +1,20 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:dyed_color",
+		"cases": [
+			{
+				"when": 1481884,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/traffic_cone_blue"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "kaos:item/traffic_cone"
+		}
+	}
+}

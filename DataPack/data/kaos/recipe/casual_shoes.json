@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": "minecraft:leather"
+    },
+    "pattern": [
+        "# #"
+    ],
+    "result": {
+        "id": "minecraft:leather_boots",
+        "count": 1,
+        "components": {
+            "equippable": {
+                "slot": "feet",
+                "equip_sound": "minecraft:block.wool.fall",
+                "asset_id": "kaos:casual"
+            },
+            "repairable": {
+                "items": [
+                    "leather"
+                ]
+            },
+            "item_name": [
+                {
+                    "translate": "apparel.feet.casual"
+                }
+            ],
+            "dyed_color": 6505772
+        }
+    }
+}

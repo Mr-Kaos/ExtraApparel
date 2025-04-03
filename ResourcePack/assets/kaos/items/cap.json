@@ -1,0 +1,208 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:dyed_color",
+		"cases": [
+			{
+				"when": 15435844,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 15435844
+						}
+					]
+				}
+			},
+			{
+				"when": 12801229,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 12801229
+						}
+					]
+				}
+			},
+			{
+				"when": 6719955,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 6719955
+						}
+					]
+				}
+			},
+			{
+				"when": 14602026,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 14602026
+						}
+					]
+				}
+			},
+			{
+				"when": 4312372,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 4312372
+						}
+					]
+				}
+			},
+			{
+				"when": 14188952,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 14188952
+						}
+					]
+				}
+			},
+			{
+				"when": 4408131,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 4408131
+						}
+					]
+				}
+			},
+			{
+				"when": 11250603,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 11250603
+						}
+					]
+				}
+			},
+			{
+				"when": 2651799,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 2651799
+						}
+					]
+				}
+			},
+			{
+				"when": 8073150,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 8073150
+						}
+					]
+				}
+			},
+			{
+				"when": 2437522,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 2437522
+						}
+					]
+				}
+			},
+			{
+				"when": 5320730,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 5320730
+						}
+					]
+				}
+			},
+			{
+				"when": 3887386,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 3887386
+						}
+					]
+				}
+			},
+			{
+				"when": 11743532,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 11743532
+						}
+					]
+				}
+			},
+			{
+				"when": 1973019,
+				"model": {
+					"type": "minecraft:model",
+					"model": "kaos:item/cap",
+					"tints": [
+						{
+							"type": "minecraft:dye",
+							"default": 1973019
+						}
+					]
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "kaos:item/cap"
+		}
+	}
+}

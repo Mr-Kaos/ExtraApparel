@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "X": "minecraft:white_wool"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "result": {
+        "id": "minecraft:leather_chestplate",
+        "count": 1,
+        "components": {
+            "equippable": {
+                "slot": "chest",
+                "equip_sound": "minecraft:block.wool.fall",
+                "asset_id": "kaos:casual"
+            },
+            "repairable": {
+                "items": [
+                    "string"
+                ]
+            },
+            "item_name": [
+                {
+                    "translate": "apparel.chest.casual"
+                }
+            ],
+            "dyed_color": 16777215
+        }
+    }
+}
