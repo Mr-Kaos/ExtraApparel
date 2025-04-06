@@ -1,0 +1,22 @@
+{
+	"layers": {
+		"humanoid": [
+			{
+				"dyeable": {
+					"color_when_undyed": 16383998
+				},
+				"texture": "kaos:tunic"
+				
+			},
+			{
+				"texture": "kaos:tunic_overlay"
+				
+			}
+		],
+		"humanoid_leggings": [
+			{
+				"texture": "kaos:tunic"
+			}
+		]
+	}
+}

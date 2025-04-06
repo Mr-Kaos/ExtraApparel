@@ -2,12 +2,12 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "key": {
-      "X": "minecraft:white_wool"
+        "X": "minecraft:white_wool"
     },
     "pattern": [
-      "X X",
-      "XXX",
-      "XXX"
+        "X X",
+        "XXX",
+        "XXX"
     ],
     "result": {
         "id": "minecraft:leather_chestplate",
@@ -28,7 +28,19 @@
                     "translate": "apparel.chest.casual"
                 }
             ],
-            "dyed_color": 16777215
+            "dyed_color": 16777215,
+            "item_model": "kaos:casual_shirt",
+            "custom_model_data": {
+                "string": "kaos:casual_shirt"
+            },
+            "attribute_modifiers": [
+                {
+                    "type": "armor",
+                    "amount": 0,
+                    "operation": "add_value",
+                    "id": ""
+                }
+            ]
         }
     }
 }

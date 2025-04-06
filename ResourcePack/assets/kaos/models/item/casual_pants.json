@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "kaos:item/casual_pants",
+		"layer1": "kaos:item/empty_overlay"
+	}
+}

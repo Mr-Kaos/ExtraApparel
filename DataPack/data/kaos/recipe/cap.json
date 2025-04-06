@@ -29,6 +29,14 @@
                 {
                     "translate": "apparel.head.cap"
                 }
+            ],
+            "attribute_modifiers": [
+                {
+                    "type": "armor",
+                    "amount": 0,
+                    "operation": "add_value",
+                    "id": ""
+                }
             ]
         }
     }

@@ -1,0 +1,12 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "kaos:item/casual_pants",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": 16383998
+			}
+		]
+	}
+}

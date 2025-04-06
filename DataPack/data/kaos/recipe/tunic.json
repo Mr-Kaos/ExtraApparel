@@ -2,19 +2,22 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "key": {
+        "X": "minecraft:white_wool",
         "#": "minecraft:leather"
     },
     "pattern": [
-        "# #"
+        "X X",
+        "X#X",
+        "#X#"
     ],
     "result": {
-        "id": "minecraft:leather_boots",
+        "id": "minecraft:leather_chestplate",
         "count": 1,
         "components": {
             "equippable": {
-                "slot": "feet",
+                "slot": "chest",
                 "equip_sound": "minecraft:block.wool.fall",
-                "asset_id": "kaos:casual"
+                "asset_id": "kaos:tunic"
             },
             "repairable": {
                 "items": [
@@ -23,13 +26,13 @@
             },
             "item_name": [
                 {
-                    "translate": "apparel.feet.casual"
+                    "translate": "apparel.chest.tunic"
                 }
             ],
-            "dyed_color": 6505772,
-            "item_model": "kaos:casual_shoes",
+            "dyed_color": 16777215,
+            "item_model": "kaos:tunic",
             "custom_model_data": {
-                "string": "kaos:casual_shoes"
+                "string": "kaos:tunic"
             },
             "attribute_modifiers": [
                 {

@@ -30,17 +30,20 @@ Available Items
 ### Chestwear
 |Name|Obtained By|Dyeable|
 |--------|---|---|
-|Casual Shirt|Crafting|Yes|
+|Casual shirt|Crafting|Yes|
+|Adventurer's tunic|Crafting|Yes|
 
 ### Legwear
 |Name|Obtained By|Dyeable|
 |--------|---|---|
 |Casual pants|Crafting|Yes|
+|Adventurer's leggings|Crafting|Yes|
 
 ### Footwear
 |Name|Obtained By|Dyeable|
 |--------|---|---|
 |Casual shoes|Crafting|Yes|
+|Adventurer's boots|Crafting|Yes|
 
 #### Crafting Recipes
 
@@ -74,6 +77,14 @@ Ingredient: Leather (`#`)
 ```
 # #
 ```
+
+Functions
+---------
+
+There are some provided functions that you can use to give yourself or other players a particular set of clothing. The available functions are:
+
+- `kaos:give_set_casual`
+- `kaos:give_set_tunic`
 
 Planned Content
 ---------------

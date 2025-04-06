@@ -8,8 +8,11 @@
 	"apparel.head.glasses.lore": "If you couldn't see before, hopefully you can now.",
 
 	"apparel.chest.casual": "Casual shirt",
+	"apparel.chest.tunic": "Adventurer's tunic",
 
 	"apparel.legs.casual": "Casual pants",
+	"apparel.legs.tunic": "Adventurer's stockings",
 
-	"apparel.feet.casual": "Casual shoes"
+	"apparel.feet.casual": "Casual shoes",
+	"apparel.feet.tunic": "Adventurer's boots"
 }
